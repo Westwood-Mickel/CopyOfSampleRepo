@@ -1,2 +1,2 @@
-# SampleRepo
-Sample Repository
+# Sample Repository
+This is a sample repository 
