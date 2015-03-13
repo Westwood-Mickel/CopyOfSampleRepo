@@ -46,9 +46,11 @@
 #*.mpg
 #*.mp4
 #*.m4v
+#*.mkv
 #*.avi
 #*.wmv
 #*.asf
+#*.divx
 #*.flv
 
 # MacOS Files
@@ -60,3 +62,4 @@
 #-------------------
 Thumbs.db
 *.tmp
+~*
