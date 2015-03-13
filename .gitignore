@@ -1,10 +1,10 @@
-*.class
+#*.class
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.ear
 
@@ -12,7 +12,7 @@
 hs_err_pid*
 
 # MacOS
-.DS_Store
+#.DS_Store
 
 # Windows
 Thumbs.db
